@@ -160,6 +160,7 @@ form {
   border-radius: 4px;
   width: 360px;
   height: 40px;
+  padding-left: 16px;
 }
 
 .label-input {
